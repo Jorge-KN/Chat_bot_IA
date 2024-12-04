@@ -1,0 +1,24 @@
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de entorno
+.venv
+
+# Archivos de compilación y editor
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de bases de datos
+*.sqlite
+
+# Archivos de configuración sensibles
+instance/
+
+# Carpeta de modelos
+models/
+
+# Carpeta otros
+otros/

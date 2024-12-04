@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+transformers
+torch
+scikit-learn
+numpy
+pandas
+python-dotenv
+Flask==2.3.2
+Flask-WTF==1.0.1  # Solo si usas formularios, aunque se desactivará CSRF
+python-dotenv==0.21.0  # Si decides usar variables de entorno más adelante
+PyMuPDF==1.21.1
+datasets
+sentencepiece
+accelerate==0.26.0
+nltk
+stanza
